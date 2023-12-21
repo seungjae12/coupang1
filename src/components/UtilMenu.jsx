@@ -17,6 +17,7 @@ export default function UtilMenu() {
               </Link>
             </Button>
           </Dropdown>
+          변경사항
         </Mycoupang>
         <Cart>
           <Link to="cart">장바구니</Link>
